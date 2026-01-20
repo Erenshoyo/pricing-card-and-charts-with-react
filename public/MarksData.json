@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Alex Johnson",
+    "marks": {
+      "physics": 78,
+      "chemistry": 82,
+      "math": 90
+    }
+  },
+  {
+    "id": 2,
+    "name": "Sam Smith",
+    "marks": {
+      "physics": 85,
+      "chemistry": 88,
+      "math": 92
+    }
+  },
+  {
+    "id": 3,
+    "name": "Jordan Lee",
+    "marks": {
+      "physics": 65,
+      "chemistry": 70,
+      "math": 68
+    }
+  },
+  {
+    "id": 4,
+    "name": "Casey Brown",
+    "marks": {
+      "physics": 92,
+      "chemistry": 91,
+      "math": 95
+    }
+  },
+  {
+    "id": 5,
+    "name": "Jamie Davis",
+    "marks": {
+      "physics": 74,
+      "chemistry": 76,
+      "math": 80
+    }
+  },
+  {
+    "id": 6,
+    "name": "Riley Miller",
+    "marks": {
+      "physics": 88,
+      "chemistry": 85,
+      "math": 89
+    }
+  },
+  {
+    "id": 7,
+    "name": "Taylor Wilson",
+    "marks": {
+      "physics": 60,
+      "chemistry": 65,
+      "math": 62
+    }
+  },
+  {
+    "id": 8,
+    "name": "Morgan Moore",
+    "marks": {
+      "physics": 95,
+      "chemistry": 94,
+      "math": 98
+    }
+  },
+  {
+    "id": 9,
+    "name": "Drew Taylor",
+    "marks": {
+      "physics": 81,
+      "chemistry": 79,
+      "math": 85
+    }
+  },
+  {
+    "id": 10,
+    "name": "Jordan Anderson",
+    "marks": {
+      "physics": 70,
+      "chemistry": 72,
+      "math": 75
+    }
+  }
+]
