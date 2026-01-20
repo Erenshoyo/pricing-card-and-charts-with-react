@@ -1,0 +1,62 @@
+[
+  {
+    "id": "tier_basic",
+    "name": "Basic",
+    "description": "Essential tools for individuals and hobbyists.",
+    "price": {
+      "amount": 9.99,
+      "currency": "$",
+      "period": "/mo"
+    },
+    "isPopular": false,
+    "buttonText": "Get Started",
+    "features": [
+      "Access to basic templates",
+      "1 Project workspace",
+      "2GB Cloud storage",
+      "Email support",
+      "Community access"
+    ]
+  },
+  {
+    "id": "tier_pro",
+    "name": "Pro",
+    "description": "Advanced features for growing teams and professionals.",
+    "price": {
+      "amount": 29.99,
+      "currency": "$",
+      "period": "/mo"
+    },
+    "isPopular": true,
+    "buttonText": "Start Free Trial",
+    "features": [
+      "Everything in Basic",
+      "Unlimited workspaces",
+      "50GB Cloud storage",
+      "Priority email & chat support",
+      "Advanced analytics dashboard",
+      "Custom branding"
+    ]
+  },
+  {
+    "id": "tier_enterprise",
+    "name": "Enterprise",
+    "description": "Scalable solutions for large organizations.",
+    "price": {
+      "amount": 99.99,
+      "currency": "$",
+      "period": "/mo"
+    },
+    "isPopular": false,
+    "buttonText": "Contact Sales",
+    "features": [
+      "Everything in Pro",
+      "Unlimited cloud storage",
+      "24/7 Phone support",
+      "Dedicated account manager",
+      "SSO & Advanced security",
+      "API Access",
+      "Custom onboarding"
+    ]
+  }
+]
